@@ -1,5 +1,5 @@
 # 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 丅乇丂乚卂 ©
-![Build](https://github.com/ElytrA8/TESLA/workflows/FailedChecker/badge.svg?branch=origin/TESLA)
+[![Build](https://github.com/ElytrA8/TESLA/workflows/FailedChecker/badge.svg?branch=TESLA)](https://github.com/ElytrA8/TESLA/actions "build")
 
 
 ```
