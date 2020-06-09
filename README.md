@@ -1,5 +1,5 @@
 # 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 丅乇丂乚卂 ©
-[![Build](https://github.com/ElytrA8/TESLA/workflows/FailedChecker/badge.svg?branch=TESLA)]
+![Build](https://github.com/ElytrA8/TESLA/workflows/FailedChecker/badge.svg?branch=TESLA)
 ![logo](https://telegra.ph/file/https://telegra.ph/file/7a68593c92c85faa388f9.png)
 
 ```
