@@ -6,7 +6,7 @@ from userbot.events import register
 
 PLACE = ''
 
-@register(pattern="^.adzan(?: |$)(.*)")
+@register(pattern="^.azan(?: |$)(.*)")
 async def get_adzan(adzan):
     if not adzan.pattern_match.group(1):
         LOCATION = PLACE
@@ -36,19 +36,19 @@ async def get_adzan(adzan):
     maghrib = parsed["results"]["datetime"][0]["times"]["Maghrib"]
     isya = parsed["results"]["datetime"][0]["times"]["Isha"]
 
-    result = (f"**Jadwal Sholat**:\n"
+    result = (f"**TIME TABLE**:\n"
                  f"📅 `{date}`\n"
                  f"📍 `{city} | {country}`\n\n"
-                 f"**Imsak :** `{imsak}`\n"
-                 f"**Subuh :** `{subuh}`\n"
-                 f"**Zuhur :** `{zuhur}`\n"
-                 f"**Ashar :** `{ashar}`\n"
+                 f"**Fajar :** `{imsak}`\n"
+                 f"**Sunrise :** `{subuh}`\n"
+                 f"**Zuhr :** `{zuhur}`\n"
+                 f"**Asr :** `{ashar}`\n"
                  f"**Maghrib :** `{maghrib}`\n"
-                 f"**Isya :** `{isya}`\n")
+                 f"**Isha :** `{isya}`\n")
 
     await adzan.edit(result)
 
 CMD_HELP.update({
-        "adzan": ".adzan <city>\
+        "adzan": ".azan <city>\
         \nUsage: Gets the prayer time for moslem."
     })
