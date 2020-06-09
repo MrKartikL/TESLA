@@ -1,7 +1,6 @@
-# One4uBot userbot project
-[![Build](https://github.com/ElytrA8/TESLA/workflows/FailedChecker/badge.svg?branch=TESLA)](https://github.com/MoveAngel/One4uBot/actions "Build") [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e35faa6a680f4d66abdffddaad76e418)](https://app.codacy.com/manual/MoveAngel/One4uBot?utm_source=github.com&utm_medium=referral&utm_content=MoveAngel/One4uBot&utm_campaign=Badge_Grade_Dashboard) ![Last Commit](https://img.shields.io/github/last-commit/MoveAngel/One4uBot/sql-extended) ![Contributors](https://img.shields.io/github/contributors/MoveAngel/One4uBot?color=LightSlateGrey)
-
-![logo](https://telegra.ph/file/6935648afa7edc00f1611.jpg)
+# 𝙿𝚁𝙾𝙹𝙴𝙲𝚃 丅乇丂乚卂 ©
+[![Build](https://github.com/ElytrA8/TESLA/workflows/FailedChecker/badge.svg?branch=TESLA)]
+![logo](https://telegra.ph/file/https://telegra.ph/file/7a68593c92c85faa388f9.png)
 
 ```
 #include <std/disclaimer.h>
