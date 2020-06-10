@@ -44,8 +44,8 @@ Thanks for all :
 * [Mkaraniya](https://github.com/mkaraniya) - OpenUserBot
 * [DevPatel](https://github.com/Devp73) - UserBot1
 
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
+and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/ElytrA8/TESLA/graphs/contributors).
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/MoveAngel/One4uBot/blob/sql-extended/LICENSE) - Version 1.d, February 2020
+This userbot licensed on [Raphielscape Public License](https://github.com/ElytrA8/TESLA/blob/TESLA/LICENSE) - Version 1.d, February 2020
