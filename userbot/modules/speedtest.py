@@ -80,7 +80,7 @@ def convert_from_bytes(size):
         size /= power
         n += 1
     return f"{round(size, 2)} {units[n]}"
-    CMD_HELP.update({
+CMD_HELP.update({
 "speedtest":
 "Tests internet speed.\
 \nUse:- .speedtest"
