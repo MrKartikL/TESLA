@@ -75,17 +75,15 @@ async def killdabot(event):
 async def bot_community(community):
     """ For .community command, just returns OG Paperplane's group link. """
     await community.edit(
-        "Join RaphielGang's awesome userbot community: @tgpaperplane"
-        "\nDo note that Paperplane Extended is an unoficial fork of their "
-        "Paperplane project and it may get limited or no support for bugs.")
+        "Join ElytrA8's awesome userbot community: @PROJECT_TESLA")
 
 
 @register(outgoing=True, pattern="^.support$")
 async def bot_support(wannahelp):
     """ For .support command, just returns the group link. """
     await wannahelp.edit(
-        "Join Our UserbotIndo Channel: @userbotindocloud \
-        \nJoin Userbot Indo Support Group: @userbotindo")
+        "Join PROJECT TESLA Group : @PROJECT_TESLA \
+        \nJoin Userbot offtopic Support Group: @ElytrA8CT")
 
 
 @register(outgoing=True, pattern="^.creator$")
@@ -93,20 +91,14 @@ async def creator(ereee):
     """ See who create this userbot. """
     await ereee.edit(
         "Creator of this userbot:"
-        "\n• 💘 [MoveAngel](https://github.com/MoveAngel) 💘")
+        "\n• ⚡ [ElytrA8](https://github.com/ElytrA8) 💘")
 
 
 @register(outgoing=True, pattern="^.readme$")
 async def reedme(e):
     await e.edit(
         "Here's something for you to read:\n"
-        "\n[One4uBot's README.md file](https://github.com/MoveAngel/One4uBot/blob/sql-extended/README.md)"
-        "\n[Setup Guide - Basic](https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02)"
-        "\n[Setup Guide - Google Drive](https://telegra.ph/How-To-Setup-Google-Drive-04-03)"
-        "\n[Setup Guide - LastFM Module](https://telegra.ph/How-to-set-up-LastFM-module-for-Paperplane-userbot-11-02)"
-        "\n[Video Tutorial - 576p](https://mega.nz/#!ErwCESbJ!1ZvYAKdTEfb6y1FnqqiLhHH9vZg4UB2QZNYL9fbQ9vs)"
-        "\n[Video Tutorial - 1080p](https://mega.nz/#!x3JVhYwR!u7Uj0nvD8_CyyARrdKrFqlZEBFTnSVEiqts36HBMr-o)"
-        "\n[Special - Note](https://telegra.ph/Special-Note-11-02)")
+        "\n[One4uBot's README.md file](https://github.com/ElytrA8/TESLA/blob/TESLA/README.md)")
     
 
 # Copyright (c) Gegham Zakaryan | 2019
@@ -128,7 +120,7 @@ async def repeat(rep):
 async def repo_is_here(wannasee):
     """ For .repo command, just returns the repo URL. """
     await wannasee.edit(
-        "[Click here](https://github.com/MoveAngel/One4uBot) to open One4uBot's GitHub page."
+        "[Click here](https://github.com/ElytrA8/TESLA) to open TESLA GitHub page."
     )
 
 
