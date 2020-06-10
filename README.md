@@ -29,9 +29,9 @@ Deploy to Heroku:
 
 ## Groups and support
 
-if you want new features, or announcements, you can follow our [UserbotIndo Channel](https://t.me/userbotindocloud).
+if you want new features, or announcements, you can follow our [TESLA](https://t.me/PROJECT_TESLA).
 
-For discussion, bug reporting, and help, you can join [Userbotindo Support Group](https://t.me/userbotindo).
+
 
 ## Credits
 
