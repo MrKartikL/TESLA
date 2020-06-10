@@ -165,7 +165,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "[PM = Report Spam] I ❤ ️One4uBot",
+      "value": "[PM = Report Spam]",
       "required": false
     },
     "ALIVE_NAME": {
