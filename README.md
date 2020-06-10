@@ -29,7 +29,7 @@ Deploy to Heroku:
 
 ## Groups and support
 
-if you want new features, or announcements, you can follow our [TESLA](https://t.me/PROJECT_TESLA).
+if you want new features, or announcements, you can follow our [TESLA](https://t.me/PROJECT_TESLA) Group.
 
 
 
