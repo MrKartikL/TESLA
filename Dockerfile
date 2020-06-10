@@ -69,9 +69,9 @@ RUN python3 -m ensurepip \
 #
 # Clone repo and prepare working directory
 #
-RUN git clone -b sql-extended https://github.com/MoveAngel/One4uBot /root/One4uBot
+RUN git clone -b TESLA https://github.com/ElytrA8/TESLA /root/TESLA
 RUN mkdir /root/TESLA/bin/
-WORKDIR /root/One4uBot/
+WORKDIR /root/TESLA/
 
 #
 # Copies session and config (if it exists)
