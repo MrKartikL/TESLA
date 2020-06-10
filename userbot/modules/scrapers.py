@@ -48,7 +48,7 @@ from userbot.utils.google_images_download import googleimagesdownload
 CARBONLANG = "auto"
 TTS_LANG = "en"
 TRT_LANG = "en"
-TEMP_DOWNLOAD_DIRECTORY = "/root/One4uBot/.bin"
+TEMP_DOWNLOAD_DIRECTORY = "/root/TESLA/.bin"
 
 
 @register(outgoing=True, pattern="^.crblang (.*)")
