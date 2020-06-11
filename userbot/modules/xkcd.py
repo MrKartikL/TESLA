@@ -52,7 +52,7 @@ Year: {}""".format(img, input_str, xkcd_link, safe_title, alt, day, month, year)
         await event.edit(output_str, link_preview=True)
     else:
         await event.edit("xkcd n.{} not found!".format(xkcd_id))
-        CMD_HELP.update({
+CMD_HELP.update({
 "xkcd":
 "Finds the Xkcd form of given query.\
 \nUse:- .xkcd <query>"
